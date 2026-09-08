@@ -1,0 +1,12 @@
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\bin\Debug\myDrawingProject.exe.config
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\bin\Debug\myDrawingProject.exe
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\bin\Debug\myDrawingProject.pdb
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.csprojResolveAssemblyReference.cache
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.Form1.resources
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.Properties.Resources.resources
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.csproj.GenerateResource.Cache
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.exe
+C:\Users\SaWa\Documents\myDrawingProject\myDrawingProject\obj\Debug\myDrawingProject.pdb
+C:\Users\SaWa\Desktop\مشروع تالته برمجه ترم تاني\myDrawingProject\bin\Debug\myDrawingProject.exe.config
+C:\Users\SaWa\Desktop\مشروع تالته برمجه ترم تاني\myDrawingProject\obj\Debug\myDrawingProject.exe
+C:\Users\SaWa\Desktop\مشروع تالته برمجه ترم تاني\myDrawingProject\obj\Debug\myDrawingProject.pdb
